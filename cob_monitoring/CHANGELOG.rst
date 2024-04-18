@@ -2,6 +2,9 @@
 Changelog for package cob_monitoring
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.6.34 (2024-02-18)
 -------------------
 * Merge pull request `#340 <https://github.com/4am-robotics/cob_command_tools/issues/340>`_ from fmessmer/migrate_ipa320
