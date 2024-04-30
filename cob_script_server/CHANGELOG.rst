@@ -5,6 +5,12 @@ Changelog for package cob_script_server
 0.6.35 (2024-04-18)
 -------------------
 
+Forthcoming
+-----------
+* 0.6.35
+* update changelogs
+* Contributors: fmessmer
+
 0.6.34 (2024-02-18)
 -------------------
 
