@@ -5,8 +5,8 @@ Changelog for package generic_throttle
 0.6.35 (2024-04-18)
 -------------------
 
-Forthcoming
------------
+0.7.35 (2024-04-30)
+-------------------
 * 0.6.35
 * update changelogs
 * Contributors: fmessmer
