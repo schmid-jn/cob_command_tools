@@ -455,7 +455,7 @@ void CobTeleop::joy_cb(const sensor_msgs::Joy::ConstPtr &joy_msg)
     switch_mode();
   }
 
-  if (free_drive_button_ >= 0 && free_drive_button_ < (int)joy_msg->buttons.size() && joy_msg->buttons[free_drive_button_] == 1)
+  if (free_drive_button_ >= 0 && free_drive_button_ < (int)joy_msg->buttons.size())
   {
     if (free_drive_active_ && joy_msg->buttons[free_drive_button_] == 0)
     {
